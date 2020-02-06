@@ -1,0 +1,6 @@
+twitch
+pert/cpm? yes kanban boards
+ganntt charts? yes
+calender? yes
+cost tracking? with plugin
+resource scheduling? Activity timeline plugin.
